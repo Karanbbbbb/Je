@@ -1,5 +1,5 @@
 #🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌
-# Add your details here and then deploy by clicking on HEROKU Deploy button
+# Add your details here and then deploy by clicking on RENDER Deploy button
 from os import environ
 
 API_ID = int(environ.get("API_ID", "28274437"))
